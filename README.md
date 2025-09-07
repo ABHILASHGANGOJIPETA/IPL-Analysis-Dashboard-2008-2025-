@@ -7,7 +7,8 @@ It focuses on season-wise team and player performance, helping track champions, 
 
 ## Dashboard Preview
 Here is the IPL Analysis Dashboard built in Power BI  
-![Dashboard Screenshot](IPL ANALYSIS.png)
+![Dashboard Screenshot](e98af316-95f3-4705-81ea-e67f1811c4e8.png)
+
 
 
 ---
