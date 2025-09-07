@@ -2,7 +2,7 @@
 
 This project is a Power BI Dashboard created to analyze Indian Premier League (IPL) data from 2008 to 2025.  
 It focuses on season-wise team and player performance, helping track champions, player awards, and overall tournament insights.
-
+ 
 ---
 
 ## Dashboard Preview
